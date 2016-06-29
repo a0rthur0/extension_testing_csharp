@@ -2,9 +2,7 @@
 using System;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.PageObjects;
-using OpenQA.Selenium.Interactions;
 using AviraSelenium.PageObjects;
 
 namespace AviraSelenium.TestCases
@@ -36,7 +34,6 @@ namespace AviraSelenium.TestCases
 			AviraExtension extension = new AviraExtension (_driver);
 			extension.OpenExtension ();
 			extension.CheckExtensionText("Unsafe Website","This website has been identified as a phishing site.");
-		
 		}
 	}
 }

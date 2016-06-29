@@ -31,8 +31,6 @@ namespace AviraSelenium.TestCases
 			AviraExtension extension = new AviraExtension (_driver);
 			extension.OpenExtension ();
 			extension.CheckExtensionText("Safe Website","No known threats");
-
-
 		}
 	}
 }
