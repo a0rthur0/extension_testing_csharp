@@ -1,0 +1,10 @@
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/Avira-Selenium.dll.mdb
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/Avira-Selenium.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/obj/Debug/Avira-Selenium.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/obj/Debug/Avira-Selenium.dll.mdb
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/nunit.framework.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/WebDriver.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/WebDriver.Support.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/FluentAssertions.Core.dll
+/home/arthur/git-repos/avira-ui-c/Avira-Selenium/Avira-Selenium/bin/Debug/FluentAssertions.dll
