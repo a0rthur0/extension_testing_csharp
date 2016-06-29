@@ -1,32 +1,6 @@
-﻿<Properties StartupItem="Avira-Selenium/Avira-Selenium.csproj">
+﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Avira-Selenium/PageObjects/UnsafePage.cs">
-    <Files>
-      <File FileName="Avira-Selenium/TestSafe.cs" Line="39" Column="68" />
-      <File FileName="Avira-Selenium/TestUnsafe.cs" Line="46" Column="3" />
-      <File FileName="Avira-Selenium/PageObjects/WarningPage.cs" Line="41" Column="39" />
-      <File FileName="Avira-Selenium/PageObjects/SafePage.cs" Line="51" Column="67" />
-      <File FileName="Avira-Selenium/PageObjects/UnsafePage.cs" Line="15" Column="3" />
-      <File FileName="Avira-Selenium/PageObjects/AbstractPage.cs" Line="18" Column="25" />
-    </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State name="__root__">
-          <Node name="Avira-Selenium" expanded="True">
-            <Node name="Avira-Selenium" expanded="True">
-              <Node name="AviraSelenium" expanded="True">
-                <Node name="TestCases" expanded="True">
-                  <Node name="TestUnsafe" expanded="True">
-                    <Node name="TestUnsafeWebsiteDetection" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

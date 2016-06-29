@@ -11,5 +11,7 @@ Project was created on Ubuntu with MonoDevelop IDE.
 - Check Packages in /project_path/Packages
 
 # Run Tests
+Before running - change Chrome extension path in BaseTest.cs file.
+Then run:
 - TestSafe.cs
 - TestUnsafe.cs
